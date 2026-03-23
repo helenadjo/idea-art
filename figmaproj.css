@@ -3,7 +3,7 @@ body{
     color:white;
 }
 .idea{
-    color:rgb(255, 212, 246);
+    color:#FFE0EE;
 }
 #navaba{
     background-color: black;
@@ -27,4 +27,33 @@ body{
     height: 300px;
     width: 400px;
     margin: 10px;
+}
+
+.dugme{
+    background-color: #47132A;
+    color:#FFE0EE;
+    width:15%;
+    height: 10%;
+    min-height: fit-content;
+    min-height: fit-content;
+    
+}
+#logsign{
+
+}
+
+#naslov{
+    color: #FFE0EE;
+    font-family:cursive;
+    justify-self:center;
+}
+
+#dug{
+   background-color: #47132A;
+    color:#FFE0EE;
+    width:15%;
+    height: 10%;
+    min-height: fit-content;
+    min-height: fit-content;
+    margin-left: 42%;
 }
