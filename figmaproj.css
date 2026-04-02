@@ -4,6 +4,8 @@ body{
 }
 .idea{
     color:#FFE0EE;
+	font-family:"lucida";
+	font-size:22px
 }
 #navaba{
     background-color: black;
@@ -11,49 +13,44 @@ body{
 }
 #bubicasta{
     background-color: rgb(190, 120, 255);
-    height: 300px;
-    width: 300px;
-    margin: 10px;
+    height: 30%;
+    width: 30%;
+    margin: 1%;
 }
 #jelov{
     background-color: rgb(248, 255, 156);
-    height: 300px;
-    width: 400px;
-    margin: 10px;
+    height: 30%;
+    width: 40%;
+    margin: 1%;
     color: black;
 }
 #plav{
     background-color: rgb(55, 92, 255);
-    height: 300px;
-    width: 400px;
-    margin: 10px;
+    height: 40%;
+    width: 40%;
+    margin: 1%;
 }
 
-.dugme{
-    background-color: #47132A;
-    color:#FFE0EE;
-    width:15%;
-    height: 10%;
-    min-height: fit-content;
-    min-height: fit-content;
-    
-}
-#logsign{
-
+.ikon{
+	width:95%;
+	height: 95%;
 }
 
-#naslov{
-    color: #FFE0EE;
-    font-family:cursive;
-    justify-self:center;
+.in{
+	width:15%;
+	height:10%;
+	background-color:#47132A;
+	color:#FFE0EE;
+	min-height:40px;
+	min-width:90px;
+	margin:1%;
 }
-
-#dug{
-   background-color: #47132A;
-    color:#FFE0EE;
-    width:15%;
-    height: 10%;
-    min-height: fit-content;
-    min-height: fit-content;
-    margin-left: 42%;
+#log{
+	margin-left:30%
+}
+#logo{
+	color:#FFE0EE;
+	font-size:30px;
+	font-family:"lucida";
+	text-align: center;
 }
