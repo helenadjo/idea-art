@@ -55,9 +55,9 @@ body{
 	text-align: center;
 }
 .objava{
-    border: 2px white;
+   border-width: 2px;
     border-radius: 1px;
-    
+    border-style:solid; 
 }
 
 
