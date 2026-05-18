@@ -53,27 +53,28 @@ body{
 	font-size:30px;
 	font-family:"lucida";
 	text-align: center;
-}
+} 
 .objava{
+    display: flex;
+    flex-direction: column;
    border-width: 3px;
     border-radius: 2px;
     border-style:solid; 
-	width: 20%;
-	height: 30%;
-	margin: 5%;
+	width: 30%;
+	height: 45%;
+    margin: auto;
+    margin-bottom: 3%;
 }
 .obslika{
 	border-width: 2px;
     border-radius: 1px;
     border-style:solid; 
-	width: 50%;
-	height: 30%;
+	width:70%;
+	height: 70%;
 	background-color: pink;
 	margin: 3%;
+    align-items:start;
 }
-
-
-
 
 
 
