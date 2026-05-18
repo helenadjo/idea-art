@@ -66,8 +66,8 @@ body{
 	border-width: 2px;
     border-radius: 1px;
     border-style:solid; 
-	width:150px;
-	height: 200px;
+	width: 50%;
+	height: 30%;
 	background-color: pink;
 	margin: 3%;
 }
