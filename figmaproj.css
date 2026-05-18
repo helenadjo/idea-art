@@ -75,7 +75,10 @@ body{
 	margin: 3%;
     align-items:start;
 }
-
+.card{
+	height:10%
+	margin:1%;
+}
 
 
 
