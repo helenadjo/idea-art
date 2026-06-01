@@ -76,12 +76,18 @@ body{
     align-items:start;
 }
 .card{
-	height:10%
+	height:10%;
 	margin:2%;
 }
-
-
-
+#frm{
+    display: flex;
+    margin: auto;
+    flex-direction: column;
+    width: 20%;
+}
+#naslov{
+    
+}
 
 
 
